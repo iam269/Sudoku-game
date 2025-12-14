@@ -2,6 +2,10 @@
 
 A simple web-based Sudoku game built with HTML, CSS, and JavaScript. 🧩
 
+## 🌐 Live Demo
+
+Play the game online: [https://iam269.github.io/Sudoku-game/](https://iam269.github.io/Sudoku-game/)
+
 ## ✨ Features
 
 - 🔄 Generates random Sudoku puzzles with pre-filled numbers
